@@ -1,7 +1,11 @@
 # try-kotlin-in-action
 ## 基本的な実行方法
+- ディレクトリをコンパイル対象にすることで、 import が可能になる
 
 ```bash
+$ # 各章ごとにディレクトリを作成
+$ cd chapter-2.2.3
+
 $ # kolint -F: コードのフォーマット
 $ # kotlinc: コードのコンパイル
 $ # java: 実行
