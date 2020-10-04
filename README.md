@@ -19,3 +19,5 @@ $ ktlint -F && kotlinc . -include-runtime -d main.jar && java -jar main.jar
 $ ktlint -F && kotlinc . -include-runtime -d main.jar && java -jar main.jar a b c
 [args: , a, b, c]
 ```
+## 5.4
+「Java の関数型インターフェイスの使用」はスキップ
